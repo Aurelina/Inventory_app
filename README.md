@@ -1,2 +1,2 @@
 # Inventory_app
-Aurelina Veloz - Universidad O &amp; M -  Bases de datos
+Aurelina Veloz 21-MIN-1-074 - Universidad O &amp; M -  Bases de datos
